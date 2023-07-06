@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lilya-Benladjreb
 - 👀 I’m interested in databases and creating illustrations with CSS
-- 🌱 I’m currently learning Java, Python, SQL
+- 🌱 I’m currently learning Python, C and C ++
 - 📫 How to reach me : https://www.linkedin.com/in/lilya-benladjreb-901502186/
 
 <!---
