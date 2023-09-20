@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lilya-Benladjreb
-- 👀 I’m interested in databases and creating illustrations with CSS
-- 🌱 I’m currently learning Python, C and C ++
+- ✨ I am a teacher's assistant for the class INF3190 - Introduction to web programming at UQAM! 
+- 🌱 I’m currently having fun with Python, C and C ++
 - 📫 How to reach me : https://www.linkedin.com/in/lilya-benladjreb-901502186/
 
 <!---
